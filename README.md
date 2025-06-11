@@ -1,18 +1,17 @@
 # Salesforce Web Pages Clone
 
-This project is a **clone of two web pages** from the official Salesforce website. It is created for educational purposes to practice front-end development skills such as HTML, CSS, and responsive design.
+This is a front-end project where I have created **two duplicate web pages** of the Salesforce website using only **HTML** and **CSS**. The goal of this project was to practice layout design, responsiveness, and styling by mimicking real-world websites.
 
-## 🌐 Project Overview
+## 📄 Files Included
 
-This project replicates the layout and design of two main pages from the Salesforce website. The focus was on accurately copying the structure, styles, and responsiveness of the original web pages.
+- `text.html` — Main HTML file containing the structure of the web pages.
+- `style.css` — CSS file for styling and layout.
 
 ## 🚀 Features
 
-- Fully responsive layout
-- Header, navigation bar, and footer
-- Images and icons replicated
-- Sections and design matched with original Salesforce pages
-- Clean and readable code structure
+- Clone of two Salesforce web pages (design only)
+- Clean and structured HTML & CSS
+- Realistic layout matching the original pages
 
 ## 🛠️ Technologies Used
 
@@ -20,10 +19,10 @@ This project replicates the layout and design of two main pages from the Salesfo
 - CSS3
 - Bootstrap 
 
-## 📂 How to Run
+## 📂 How to Run the Project
 
 1. Download or clone this repository.
-2. Open `index.html` or the second cloned page in your browser.
-3. Make sure all linked CSS and image files are in the correct folders.
+2. Open `text.html` in any web browser (e.g., Chrome, Firefox).
+3. Make sure `style.css` is in the same folder and correctly linked.
 
 
